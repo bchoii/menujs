@@ -1,5 +1,5 @@
 # menujs
-```html
+```
 <ul class="menu">
 	<li> <a><img src="logo.png"></a>
 	<li style="float:right;"><a href="Logout.action">Logout</a>
